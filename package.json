@@ -1,0 +1,24 @@
+{
+  "name": "newpackage_aftered",
+  "version": "1.0.0",
+  "description": "basic app-updateddemo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NextYYY/newpackage_aftered.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4",
+    "nxpack_packedonce": "1.0.0",
+    "cod_for_tea": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NextYYY/newpackage_aftered/issues"
+  },
+  "homepage": "https://github.com/NextYYY/newpackage_aftered#readme"
+}
